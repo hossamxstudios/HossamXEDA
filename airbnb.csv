@@ -1,0 +1,411 @@
+name,host_name,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,number_of_reviews_ltm
+Home in Albany · ★4.74 · 1 bedroom · 1 bed · 1 private bath,Efrat,FOURTEENTH WARD,42.66719,-73.8158,Private room,50,1,239,08/12/2023,1.9,1,201,47
+Rental unit in Albany · ★3.56 · 2 bedrooms · 2 beds · 1 bath,Kenneth,THIRD WARD,42.65789,-73.7537,Entire home/apt,70,28,9,17/08/2022,0.08,1,365,0
+Rental unit in Albany · ★4.74 · 1 bedroom · 1 bed · 1 bath,Terra,SIXTH WARD,42.65222,-73.76724,Entire home/apt,125,2,291,19/11/2023,2.54,10,361,8
+Rental unit in Albany · ★4.51 · Studio · 1 bed · 1 bath,Gregg,SECOND WARD,42.64615,-73.75966,Entire home/apt,68,2,332,12/11/2023,3.15,3,138,28
+Rental unit in Albany · ★4.73 · 1 bedroom · 1 bed · 1 bath,Terra,SIXTH WARD,42.65222,-73.76724,Entire home/apt,140,1,305,10/12/2023,2.92,10,0,4
+Townhouse in Albany · ★4.59 · 1 bedroom · 1 bed · 2 shared baths,Urbangem,SECOND WARD,42.64484,-73.75851,Private room,190,1,37,19/02/2023,0.41,6,365,1
+Home in Albany · ★4.76 · 3 bedrooms · 3 beds · 3.5 baths,John M,TENTH WARD,42.66088,-73.78147,Entire home/apt,305,2,55,29/12/2023,0.54,2,365,4
+Home in Albany · ★4.61 · 1 bedroom · 1 bed · 2.5 shared baths,John M,TENTH WARD,42.66063,-73.78115,Private room,199,3,18,25/07/2020,0.18,2,179,0
+Home in Albany · ★4.88 · 5 bedrooms · 6 beds · 5 baths,Terra,NINTH WARD,42.65601,-73.7756,Entire home/apt,750,3,65,16/08/2022,0.66,10,365,0
+Rental unit in Albany · ★4.74 · 1 bedroom · 1 bed · 1 bath,Robert,SECOND WARD,42.64603,-73.75986,Entire home/apt,85,3,226,18/09/2023,2.26,1,322,2
+Rental unit in Albany · ★4.79 · 1 bedroom · 2 beds · 1 bath,Sugey,SIXTH WARD,42.65559,-73.76506,Entire home/apt,85,1,574,17/12/2023,6.36,1,0,44
+Rental unit in Albany · ★4.53 · 1 bedroom · 2 beds · 1 private bath,Gregg,SECOND WARD,42.64734,-73.75851,Private room,61,2,363,28/12/2023,3.76,3,165,38
+Home in Albany · ★4.81 · 1 bedroom · 1 bed · 1 bath,Elizabeth,FOURTEENTH WARD,42.66078,-73.80553,Entire home/apt,50,1,611,16/12/2023,6.34,2,163,92
+Place to stay in Albany · ★4.94 · 3 bedrooms · 6 beds · 2 baths,Peter,FIFTEENTH WARD,42.67567,-73.82438,Entire home/apt,180,1,138,21/12/2023,1.49,9,0,21
+Home in Albany · ★4.83 · 1 bedroom · 1 bed · 1.5 shared baths,Adam,ELEVENTH WARD,42.67583,-73.78297,Private room,47,1,229,17/12/2023,2.47,3,363,14
+Home in Albany · ★4.61 · 1 bedroom · 1 bed · 1 shared bath,Chad,TENTH WARD,42.65912,-73.78349,Private room,45,10,61,26/10/2019,0.66,4,218,0
+Rental unit in Albany · ★4.89 · 1 bedroom · 1 bed · 1 shared bath,Musab,SIXTH WARD,42.65154,-73.76867,Private room,50,5,27,16/09/2023,0.66,2,334,6
+Home in Albany · ★4.66 · 4 bedrooms · 4 beds · 2 baths,Akhilesh,FIFTEENTH WARD,42.66972,-73.82753,Entire home/apt,219,2,173,28/12/2023,1.89,1,335,15
+Home in Albany · ★4.77 · 1 bedroom · 1 bed · 1.5 shared baths,Adam,TWELFTH WARD,42.68769,-73.79664,Private room,60,2,223,06/12/2022,2.45,3,365,0
+Home in Albany · ★4.70 · 1 bedroom · 1 bed · 1 shared bath,Chad,TENTH WARD,42.65726,-73.78219,Private room,46,10,47,19/05/2023,0.52,4,252,3
+Home in Albany · ★4.96 · 2 bedrooms · 5 beds · 2 baths,Peter,FIFTEENTH WARD,42.673512,-73.819679,Entire home/apt,168,1,81,22/11/2023,0.93,9,358,18
+Home in Albany · ★4.71 · 1 bedroom · 1 bed · 1 shared bath,Share,NINTH WARD,42.65651,-73.77887,Private room,60,2,38,12/10/2023,0.47,3,75,6
+Rental unit in Albany · ★4.74 · 1 bedroom · 1 bed · 1 bath,Elizabeth,FOURTEENTH WARD,42.66075,-73.80605,Entire home/apt,67,1,333,26/12/2023,7.57,2,315,112
+Home in Albany · ★4.92 · 1 bedroom · 1 bed · 1.5 shared baths,Adam,FIFTH WARD,42.67614,-73.78169,Private room,44,3,130,11/09/2023,1.59,3,365,2
+Home in Albany · ★4.73 · 1 bedroom · 1 bed · 1 shared bath,Chad,TENTH WARD,42.6584,-73.78309,Private room,45,10,52,22/12/2023,0.63,4,339,7
+Home in Albany · ★4.97 · 1 bedroom · 1 bed · 2 shared baths,Aaron,FOURTEENTH WARD,42.65729,-73.80321,Private room,62,1,32,07/12/2023,0.4,1,46,1
+Home in Albany · ★4.98 · 2 bedrooms · 3 beds · 1 bath,Peter,FIFTEENTH WARD,42.67637,-73.82395,Entire home/apt,306,1,57,26/06/2022,0.8,9,365,0
+Rental unit in Albany · ★4.96 · 1 bedroom · 1 bed · 1 shared bath,Ed,NINTH WARD,42.65312,-73.78161,Private room,70,1,71,22/10/2023,1.12,3,264,23
+Home in Albany · ★4.58 · 2 bedrooms · 1 bed · 1 shared bath,Chad,TENTH WARD,42.6585,-73.78414,Private room,50,10,26,01/12/2023,0.38,4,321,3
+Townhouse in Albany · ★4.71 · 2 bedrooms · 2 beds · 2 shared baths,Urbangem,SECOND WARD,42.6436,-73.75887,Private room,169,1,17,28/08/2021,0.22,6,180,0
+Home in Albany · ★4.95 · 1 bedroom · 1 bed · 2 shared baths,Michael And Flerida,FOURTEENTH WARD,42.65846,-73.80201,Private room,60,4,19,03/07/2020,0.27,6,330,0
+Townhouse in Albany · ★4.60 · 1 bedroom · 7 beds · 1 private bath,Urbangem,SECOND WARD,42.64355,-73.75712,Private room,249,2,5,28/01/2023,0.1,6,180,1
+Home in Albany · ★4.92 · 2 bedrooms · 1 bed · 2 shared baths,Michael And Flerida,FOURTEENTH WARD,42.65846,-73.80201,Private room,80,4,12,04/03/2020,0.21,6,330,0
+Home in Albany · ★4.88 · 1 bedroom · 1 bed · 2 shared baths,Michael And Flerida,FOURTEENTH WARD,42.65846,-73.80201,Private room,80,4,16,24/04/2020,0.23,6,330,0
+Home in Albany · ★5.0 · 2 bedrooms · 1 bed · 2 shared baths,Michael And Flerida,FOURTEENTH WARD,42.65846,-73.80201,Private room,80,4,8,12/08/2020,0.12,6,330,0
+Home in Albany · ★4.97 · 1 bedroom · 1 bed · 2 shared baths,Michael And Flerida,FOURTEENTH WARD,42.65846,-73.80201,Private room,60,4,32,08/07/2020,0.45,6,5,0
+Home in Albany · ★4.91 · 5 bedrooms · 6 beds · 2 baths,Michael And Flerida,FOURTEENTH WARD,42.65846,-73.80201,Entire home/apt,275,4,90,26/11/2023,1.2,6,330,19
+Home in Albany · ★4.93 · 2 bedrooms · 4 beds · 1 bath,Peter,FIFTEENTH WARD,42.675,-73.82382,Entire home/apt,196,1,55,31/12/2022,0.73,9,189,0
+Rental unit in Albany · ★4.91 · 1 bedroom · 2 beds · 1 bath,James,SEVENTH WARD,42.64939,-73.76865,Entire home/apt,126,2,130,28/05/2023,1.85,2,262,2
+Home in Albany · ★4.90 · 1 bedroom · 1 bed · 1 bath,Bela,NINTH WARD,42.65532,-73.78244,Entire home/apt,85,2,39,01/06/2023,0.51,8,162,1
+Home in Albany · ★4.75 · 1 bedroom · 1 bed · 1 shared bath,Chad,THIRTEENTH WARD,42.66565,-73.77975,Private room,40,10,40,08/12/2023,0.59,3,334,5
+Rental unit in Albany · ★4.85 · 1 bedroom · 1 bed · 1 bath,Bela,NINTH WARD,42.65372,-73.78244,Entire home/apt,65,2,110,01/01/2024,1.47,8,248,13
+Home in Albany · ★5.0 · 4 bedrooms · 5 beds · 1.5 baths,Peter,FIFTEENTH WARD,42.67547,-73.82402,Entire home/apt,557,4,8,27/07/2018,0.11,9,365,0
+Rental unit in Albany · ★4.73 · 1 bedroom · 2 beds · 1 bath,Allen,TENTH WARD,42.66045,-73.77833,Entire home/apt,75,3,153,04/09/2023,2.06,8,364,12
+Home in Albany · ★4.86 · 1 bedroom · 1 bed · 1 shared bath,Chad,ELEVENTH WARD,42.66572,-73.77834,Private room,35,10,21,17/11/2023,0.29,3,342,3
+Home in Albany · ★4.81 · 1 bedroom · 1 bed · 1 shared bath,Chad,ELEVENTH WARD,42.66703,-73.77842,Private room,35,10,21,02/09/2023,0.28,3,328,3
+Home in Albany · ★4.91 · 1 bedroom · 1 bed · 1 private bath,Bela,NINTH WARD,42.65501,-73.78122,Private room,55,2,104,23/12/2023,1.43,8,247,20
+Rental unit in Albany · ★4.82 · 1 bedroom · 2 beds · 1 bath,Jake,SEVENTH WARD,42.64717,-73.77135,Entire home/apt,87,1,428,25/11/2023,6.18,2,48,34
+Guest suite in Albany · ★4.93 · 1 bedroom · 1 bed · 1 private bath,Domini,FOURTEENTH WARD,42.65975,-73.81196,Private room,61,2,116,03/12/2023,1.67,1,0,22
+Guest suite in Albany · ★4.92 · 1 bedroom · 1 bed · 1 private bath,Bela,NINTH WARD,42.65431,-73.78178,Private room,60,2,39,25/09/2023,0.61,8,279,3
+Rental unit in Albany · ★4.88 · 1 bedroom · 2 beds · 1 bath,Jake,SEVENTH WARD,42.6477,-73.7714,Entire home/apt,78,1,353,24/12/2023,5.11,2,0,51
+Guest suite in Albany · ★4.89 · 1 bedroom · 1 bed · 1 bath,Janet,SIXTH WARD,42.65345,-73.7645,Entire home/apt,82,1,755,21/12/2023,11.11,1,0,133
+Home in Albany · ★4.92 · 1 bedroom · 1 bed · 1 shared bath,Leiba,SIXTH WARD,42.65333,-73.77293,Private room,100,3,12,27/07/2023,0.18,1,359,1
+Rental unit in Albany · ★4.84 · 1 bedroom · 1 bed · 1 bath,Farah,SIXTH WARD,42.65403,-73.76325,Entire home/apt,89,2,105,13/11/2023,1.59,1,0,8
+Home in Albany · ★4.82 · 3 bedrooms · 3 beds · 2 baths,Terra,ELEVENTH WARD,42.66048,-73.77269,Entire home/apt,200,1,102,22/07/2023,1.53,10,97,4
+Rental unit in Albany · ★5.0 · 1 bedroom · 1 bed · 1 private bath,Bela,NINTH WARD,42.65430832,-73.78177643,Private room,55,2,21,10/09/2023,0.35,8,299,16
+Home in Albany · ★4.93 · 2 bedrooms · 2 beds · 1.5 baths,Rosanne,EIGHTH WARD,42.64514,-73.80668,Entire home/apt,195,3,14,08/10/2022,0.22,1,179,0
+Rental unit in Albany · ★4.95 · 1 bedroom · 1 bed · 1 shared bath,Alice,SIXTH WARD,42.65821,-73.76917,Private room,75,1,59,16/12/2023,0.92,1,276,22
+Rental unit in Albany · ★4.95 · 1 bedroom · 1 bed · 1 shared bath,Ed,NINTH WARD,42.65464,-73.78348,Private room,50,1,241,14/12/2023,3.85,3,261,30
+Home in Albany · ★4.68 · 1 bedroom · 1 bed · 1 shared bath,Share,TENTH WARD,42.65746,-73.77904,Private room,57,2,57,02/10/2023,0.9,3,86,13
+Loft in Albany · ★4.80 · 1 bedroom · 2 beds · 1 bath,Earl,SECOND WARD,42.64535,-73.75365,Entire home/apt,74,1,606,27/12/2023,9.73,6,0,36
+Guest suite in Albany · ★4.70 · 1 bedroom · 1 bed · 1 bath,Earl,SECOND WARD,42.64535,-73.75365,Entire home/apt,61,1,529,30/12/2023,8.58,6,319,72
+Home in Albany · ★5.0 · Studio · 1 bed · 1 private bath,Rachel,FOURTH WARD,42.6737,-73.75313,Private room,95,1,6,27/05/2023,0.09,1,164,1
+Serviced apartment in Albany · ★4.64 · 1 bedroom · 1 bed · 1 bath,Terra,SIXTH WARD,42.65235,-73.76714,Entire home/apt,120,2,88,04/09/2023,1.4,10,281,8
+Home in Albany · ★4.94 · 1 bedroom · 1 bed · 1 private bath,Bela,NINTH WARD,42.6533,-73.78114,Private room,55,2,62,08/09/2023,1.03,8,0,12
+Home in Albany · ★4.96 · 1 bedroom · 1 bed · 1.5 shared baths,Diana,EIGHTH WARD,42.64936,-73.80278,Private room,55,1,194,03/12/2023,3.27,2,7,41
+Home in Albany · 2 bedrooms · 2 beds · 1 shared bath,Sherrell,FOURTH WARD,42.6761,-73.73825,Private room,122,3,0,,,1,180,0
+Rental unit in Albany · ★4.67 · 2 bedrooms · 2 beds · 1 bath,Earl,SECOND WARD,42.64563,-73.75311,Entire home/apt,95,1,404,26/12/2023,6.91,6,196,39
+Rental unit in Albany · ★4.75 · 2 bedrooms · 2 beds · 1 bath,Earl,SECOND WARD,42.64585,-73.75297,Entire home/apt,94,1,395,01/12/2023,6.88,6,301,51
+Rental unit in Albany · ★4.74 · 2 bedrooms · 4 beds · 1 bath,Diana,SECOND WARD,42.64335,-73.7579,Entire home/apt,142,1,238,22/12/2023,4.27,19,0,52
+Home in Albany · ★4.98 · 1 bedroom · 1 bed · 1 shared bath,Ed,SEVENTH WARD,42.65259,-73.78223,Private room,50,1,149,12/12/2023,2.72,3,251,56
+Rental unit in Albany · ★4.79 · 1 bedroom · 1 bed · 1 bath,Diana,SECOND WARD,42.64506,-73.75727,Entire home/apt,100,1,254,03/12/2023,4.63,19,78,60
+Rental unit in Albany · ★4.80 · 2 bedrooms · 2 beds · 1 bath,Elizabeth,THIRTEENTH WARD,42.66619,-73.79031,Entire home/apt,110,2,50,15/09/2023,0.92,8,365,3
+Home in Albany · ★4.98 · 1 bedroom · 1 bed · 1.5 shared baths,Diana,EIGHTH WARD,42.65085,-73.80239,Private room,55,1,281,04/01/2024,5.34,2,143,97
+Rental unit in Albany · ★4.81 · 2 bedrooms · 1 bed · 1 bath,Dominick,SIXTH WARD,42.65507,-73.76138,Entire home/apt,151,4,36,25/08/2023,0.72,3,356,2
+Rental unit in Albany · ★4.50 · 1 bedroom · 1 bed · 1 bath,Elizabeth,NINTH WARD,42.65483,-73.78033,Entire home/apt,85,5,24,19/12/2023,0.47,8,357,3
+Rental unit in Albany · ★4.63 · Studio · 1 bed · 1 bath,Adem,SIXTH WARD,42.65547,-73.7651,Entire home/apt,78,1,240,10/12/2023,4.73,2,68,68
+Rental unit in Albany · ★4.94 · 2 bedrooms · 2 beds · 1 bath,Matthew,FOURTH WARD,42.66091,-73.74285,Entire home/apt,213,1,221,20/10/2023,4.55,1,250,33
+Rental unit in Albany · ★4.65 · 2 bedrooms · 2 beds · 1 bath,Adem,THIRD WARD,42.65682,-73.76298,Entire home/apt,78,1,139,30/08/2023,7.35,2,206,69
+Rental unit in Albany · ★4.89 · 2 bedrooms · 3 beds · 1 bath,Allen,THIRTEENTH WARD,42.66827,-73.79231,Entire home/apt,95,3,99,26/12/2023,1.99,8,354,18
+Home in Albany · ★4.99 · 1 bedroom · 2 beds · 1 bath,Lloyd,FOURTH WARD,42.67773,-73.73899,Entire home/apt,109,1,166,07/08/2023,3.43,1,351,6
+Home in Albany · ★5.0 · 2 bedrooms · 2 beds · 1.5 baths,Daniel,SIXTH WARD,42.65115,-73.7668,Entire home/apt,92,30,4,06/01/2023,0.12,1,0,1
+Rental unit in Albany · ★4.73 · 2 bedrooms · 2 beds · 1 bath,Elizabeth,SIXTH WARD,42.65315,-73.76202,Entire home/apt,110,7,21,30/12/2023,0.44,8,0,6
+Home in Albany · ★4.90 · 1 bedroom · 1 bed · 1 shared bath,John,FOURTEENTH WARD,42.66403,-73.81446,Private room,45,1,128,24/12/2023,2.71,1,170,46
+Rental unit in Albany · 1 bedroom · 2 beds · 1 bath,Evolve,THIRD WARD,42.6557,-73.75085,Entire home/apt,91,2,1,07/03/2020,0.02,6,340,0
+Rental unit in Albany · ★3.96 · 3 bedrooms · 3 beds · 1 bath,Evolve,SECOND WARD,42.6469,-73.75761,Entire home/apt,178,3,27,27/10/2022,0.63,6,361,0
+Rental unit in Albany · 3 bedrooms · 3 beds · 1 bath,Arkady,NINTH WARD,42.65567,-73.7854,Entire home/apt,200,70,0,,,1,365,0
+Home in Albany · ★4.79 · 3 bedrooms · 3 beds · 1.5 baths,Anthony,FIRST WARD,42.63876,-73.78535,Entire home/apt,139,1,92,31/12/2023,2.04,1,112,23
+Townhouse in Albany · ★New · 2 bedrooms · 5 beds · 1 bath,Rakee,FIRST WARD,42.63085781,-73.77276296,Entire home/apt,115,1,1,18/12/2023,1,1,270,1
+Rental unit in Albany · ★4.81 · 2 bedrooms · 2 beds · 1 bath,Angela,SECOND WARD,42.64453,-73.75426,Entire home/apt,120,2,78,30/10/2023,1.95,4,85,13
+Rental unit in Albany · ★4.59 · 2 bedrooms · 2 beds · 1 bath,Gregg,THIRD WARD,42.65746,-73.74932,Entire home/apt,76,2,33,11/12/2023,0.76,3,0,23
+Rental unit in Albany · ★5.0 · 1 bedroom · 2 beds · 1 bath,Dominick,SIXTH WARD,42.65556,-73.76205,Entire home/apt,175,4,14,10/10/2023,0.4,3,280,3
+Home in Albany · ★4.86 · 3 bedrooms · 3 beds · 1 bath,Scott,TENTH WARD,42.66257,-73.78281,Entire home/apt,165,1,107,03/12/2023,2.51,5,363,27
+Home in Albany · ★4.90 · 3 bedrooms · 3 beds · 1 bath,Diana,EIGHTH WARD,42.64383,-73.78926,Entire home/apt,245,2,66,08/10/2023,1.55,19,0,20
+Rental unit in Albany · ★4.98 · Studio · 2 beds · 1 bath,Lloyd,SIXTH WARD,42.65935,-73.76805,Entire home/apt,99,1,318,27/12/2023,7.52,3,353,73
+Rental unit in Albany · ★4.99 · 1 bedroom · 2 beds · 1 bath,Lloyd,SIXTH WARD,42.66006,-73.76966,Entire home/apt,119,1,280,25/12/2023,6.7,3,349,57
+Rental unit in Albany · ★4.82 · 2 bedrooms · 2 beds · 1 bath,Michael,EIGHTH WARD,42.64808,-73.7996,Entire home/apt,135,13,22,21/12/2023,0.54,5,293,3
+Rental unit in Albany · ★4.95 · 1 bedroom · 1 bed · 1 bath,Elsa,FOURTEENTH WARD,42.66132,-73.7956,Entire home/apt,119,1,118,09/10/2023,2.88,1,0,21
+Guest suite in Albany · ★4.66 · 1 bedroom · 1 bath,Angela,SECOND WARD,42.64454,-73.75369,Entire home/apt,97,2,29,09/10/2023,1.03,4,88,7
+Rental unit in Albany · ★4.71 · 1 bedroom · 2 beds · 1 bath,Kori,NINTH WARD,42.6545,-73.78223,Entire home/apt,87,2,99,19/11/2023,2.53,1,144,39
+Rental unit in Albany · ★4.57 · 1 bedroom · 2 beds · 1 bath,Linda,SECOND WARD,42.64801,-73.75668,Entire home/apt,120,1,83,30/11/2023,2.32,15,347,28
+Rental unit in Albany · ★4.75 · 1 bedroom · 1 bed · 1 bath,Linda,SECOND WARD,42.64821,-73.75793,Entire home/apt,120,1,92,19/11/2023,2.57,15,0,25
+Rental unit in Albany · ★4.68 · 2 bedrooms · 2 beds · 1 bath,Linda,SECOND WARD,42.64713,-73.75628,Entire home/apt,140,1,116,23/10/2023,3.26,15,0,32
+Home in Albany · ★4.97 · 1 bedroom · 1 bed · 2 baths,Emilie,TENTH WARD,42.66137,-73.7904,Private room,73,1,137,30/11/2023,3.49,1,87,61
+Home in Albany · ★4.98 · 2 bedrooms · 2 beds · 1 bath,Dan,NINTH WARD,42.65311,-73.78525,Entire home/apt,175,1,192,25/12/2023,5.41,1,284,56
+Rental unit in Albany · ★4.90 · 2 bedrooms · 2 beds · 1 bath,Allen,THIRTEENTH WARD,42.66646,-73.79184,Entire home/apt,94,2,58,20/12/2023,1.62,8,356,21
+Rental unit in Albany · ★4.43 · 1 bedroom · 1 bed · 1 bath,Terra,SIXTH WARD,42.65345,-73.76663,Entire home/apt,140,2,40,03/09/2023,1.13,10,361,13
+Rental unit in Albany · ★4.88 · 1 bedroom · 1 bed · 1 bath,Allen,FOURTEENTH WARD,42.67156,-73.80883,Entire home/apt,88,3,41,02/01/2024,1.17,8,345,16
+Home in Albany · ★4.96 · 1 bedroom · 1 bed · 1 private bath,Thomas,THIRTEENTH WARD,42.6692,-73.79849,Private room,107,1,113,19/12/2023,3.13,10,0,45
+Rental unit in Albany · ★4.40 · 2 bedrooms · 3 beds · 1 bath,Dominick,THIRD WARD,42.656,-73.76123,Entire home/apt,171,4,15,07/09/2022,0.42,3,365,0
+Rental unit in Albany · ★5.0 · 2 bedrooms · 2 beds · 2 baths,David,THIRTEENTH WARD,42.66744,-73.79216,Entire home/apt,125,14,7,01/01/2024,0.21,2,298,1
+Rental unit in Albany · ★4.86 · 1 bedroom · 2 beds · 1 bath,Dillon,THIRD WARD,42.65118087,-73.75273894,Entire home/apt,96,1,124,01/01/2024,3.52,2,326,43
+Home in Albany · ★4.76 · 3 bedrooms · 4 beds · 1 bath,Scott,TENTH WARD,42.66261,-73.78332,Entire home/apt,198,1,140,18/12/2023,3.97,5,341,30
+Rental unit in Albany · ★4.89 · 2 bedrooms · 3 beds · 1 bath,Dillon,THIRD WARD,42.64981845,-73.75090228,Entire home/apt,117,1,163,04/01/2024,5.54,2,192,51
+Home in Albany · ★4.91 · 1 bedroom · 1 bed · 1 shared bath,Bela,NINTH WARD,42.65399,-73.78126,Private room,45,2,45,01/01/2024,1.3,8,344,18
+Home in Albany · ★4.93 · 5 bedrooms · 5 beds · 5.5 baths,Peter,THIRTEENTH WARD,42.66526413,-73.78692627,Entire home/apt,595,2,29,03/12/2023,1.63,9,0,23
+Rental unit in Albany · ★4.78 · 1 bedroom · 1 bed · 1 bath,Jerry,SIXTH WARD,42.65429,-73.75986,Entire home/apt,88,2,89,14/09/2023,3.03,6,347,22
+Home in Albany · ★4.64 · 3 bedrooms · 3 beds · 1 bath,Mary,TWELFTH WARD,42.67763,-73.79168,Entire home/apt,125,2,14,28/08/2022,0.42,2,179,0
+Boutique hotel in Albany · ★4.56 · Studio · 1 bed · 1 private bath,Terra,SIXTH WARD,42.65848,-73.77436,Private room,200,1,18,05/08/2023,0.58,10,104,2
+Boutique hotel in Albany · ★4.20 · 1 bedroom · 1 bed · 1 private bath,Terra,SIXTH WARD,42.65933,-73.77275,Private room,200,1,5,30/10/2022,0.16,10,104,0
+Rental unit in Albany · Studio · 1 bed · 0 shared baths,Nicola,FOURTH WARD,42.65854,-73.74926,Shared room,45,1,0,,,1,358,0
+Condo in Albany · ★5.0 · 2 bedrooms · 3 beds · 1 bath,Jessica,THIRTEENTH WARD,42.66972,-73.79544,Entire home/apt,95,60,4,30/11/2022,0.14,2,358,0
+Rental unit in Albany · ★4.99 · 1 bedroom · 1 bed · 1 bath,Todd,SIXTH WARD,42.65157,-73.76546,Entire home/apt,109,2,136,31/12/2023,4.66,1,203,56
+Rental unit in Albany · ★4.87 · 1 bedroom · 2 beds · 1 bath,Linda,FOURTH WARD,42.65888,-73.74673,Entire home/apt,115,1,68,01/11/2023,2.17,15,0,17
+Rental unit in Albany · ★4.97 · 1 bedroom · 2 beds · 1 bath,Jake & Kate,ELEVENTH WARD,42.66034,-73.77163,Entire home/apt,97,2,142,30/12/2023,5.78,1,243,70
+Rental unit in Albany · ★4.56 · 2 bedrooms · 2 beds · 1 bath,Elizabeth,SIXTH WARD,42.65333,-73.76402,Entire home/apt,100,3,9,13/08/2023,0.29,8,336,5
+Home in Albany · ★4.92 · 1 bedroom · 1 bed · 1 shared bath,David Yisrael,FIFTEENTH WARD,42.67945,-73.81647,Private room,63,3,36,28/08/2023,1.3,3,125,6
+Rental unit in Albany · ★4.62 · 1 bedroom · 1 bed · 1 bath,Linda,FOURTH WARD,42.65901,-73.74748,Entire home/apt,120,1,39,08/10/2023,1.31,15,348,11
+Aparthotel in Albany · ★4.79 · 1 bedroom · 1 bed · 1 bath,Sonya,THIRD WARD,42.66064,-73.76074,Entire home/apt,74,1,201,30/11/2023,6.73,1,0,68
+Rental unit in Albany · ★4.95 · 1 bedroom · 1 bed · 1 bath,Rosie,TENTH WARD,42.65969,-73.77564,Entire home/apt,93,7,21,31/03/2023,0.78,1,154,1
+Rental unit in Albany · ★4.29 · 1 bedroom · 1 bed · 1 bath,All Seasons,THIRD WARD,42.65061,-73.75006,Entire home/apt,105,4,7,23/02/2023,0.25,1,180,1
+Rental unit in Albany · ★4.64 · Studio · 1 bed · 1 bath,Jerry,SIXTH WARD,42.65431,-73.75997,Entire home/apt,85,365,42,10/09/2023,1.44,6,348,5
+Rental unit in Albany · ★4.79 · 1 bedroom · 1 bed · 1 bath,Linda,FOURTH WARD,42.65856,-73.74866,Entire home/apt,115,1,63,01/10/2023,2.16,15,350,22
+Rental unit in Albany · ★4.72 · 1 bedroom · 1 bed · 1 bath,David,THIRD WARD,42.65812,-73.74941,Entire home/apt,75,3,68,18/12/2023,2.49,3,356,26
+Condo in Albany · ★4.50 · 1 bedroom · 1 bed · 1 bath,Jerry,SIXTH WARD,42.65269,-73.76076,Entire home/apt,88,2,32,12/11/2023,1.11,6,353,11
+Rental unit in Albany · ★4.90 · 1 bedroom · 1 bed · 1 bath,Marlene,SECOND WARD,42.64684,-73.75614,Entire home/apt,125,1,77,20/08/2023,2.75,1,173,13
+Rental unit in Albany · ★4.63 · 1 bedroom · 1 bed · 1 bath,Jerry,SIXTH WARD,42.65442,-73.7611,Entire home/apt,88,2,51,08/10/2023,1.81,6,0,12
+Home in Albany · ★4.48 · 1 bedroom · 1 bed · 1 shared bath,Luke,FIFTEENTH WARD,42.67643,-73.82903,Private room,40,2,21,12/11/2023,0.82,1,344,8
+Townhouse in Albany · ★4.92 · 2 bedrooms · 2 beds · 1 bath,Allen,FIRST WARD,42.63066,-73.77357,Entire home/apt,99,3,48,17/12/2023,1.73,8,168,18
+Home in Albany · ★4.74 · 3 bedrooms · 3 beds · 1 bath,Iris,TWELFTH WARD,42.68553,-73.79716,Entire home/apt,97,1,41,30/12/2023,1.55,3,0,27
+Guest suite in Albany · ★4.92 · Studio · 1 bed · 1 bath,Jason,SIXTH WARD,42.65641,-73.76413,Entire home/apt,93,1,192,12/12/2023,7.09,1,0,78
+Townhouse in Albany · ★4.25 · 1 bedroom · 2 beds · 1.5 shared baths,Clyde,SIXTH WARD,42.65934,-73.76966,Private room,100,2,4,16/08/2022,0.18,4,364,0
+Home in Albany · ★4.94 · 3 bedrooms · 3 beds · 1 bath,Iris,FIFTEENTH WARD,42.67044,-73.82573,Entire home/apt,94,1,77,03/01/2024,2.82,3,358,37
+Rental unit in Albany · ★4.80 · 1 bedroom · 1 bed · 1 bath,Jerry,SIXTH WARD,42.65386,-73.75958,Entire home/apt,88,2,63,27/10/2023,2.27,6,0,9
+Rental unit in Albany · ★4.80 · 1 bedroom · 1 bed · 1.5 baths,Diana,SECOND WARD,42.64186,-73.75868,Entire home/apt,135,1,51,03/12/2023,1.87,19,90,17
+Home in Albany · ★4.95 · 3 bedrooms · 3 beds · 1 bath,Diana,NINTH WARD,42.65674,-73.79221,Entire home/apt,185,2,95,21/12/2023,3.51,19,90,40
+Rental unit in Albany · ★5.0 · 1 bedroom · 2 beds · 1 bath,Chris,THIRD WARD,42.65069,-73.75193,Entire home/apt,65,30,20,27/03/2022,0.74,1,154,0
+Rental unit in Albany · ★4.87 · 2 bedrooms · 2 beds · 1 bath,Diana,THIRTEENTH WARD,42.67181,-73.79543,Entire home/apt,125,2,68,08/12/2023,2.49,19,90,27
+Home in Albany · ★4.96 · 5 bedrooms · 7 beds · 2.5 baths,Diana,TENTH WARD,42.66236,-73.79245,Entire home/apt,600,2,55,24/11/2023,2.03,19,0,18
+Rental unit in Albany · ★4.85 · 2 bedrooms · 2 beds · 1 bath,Diana,THIRTEENTH WARD,42.67131,-73.7921,Entire home/apt,145,1,53,26/11/2023,2.14,19,0,29
+Rental unit in Albany · ★4.73 · 1 bedroom · 1 bed · 1 bath,Linda,FOURTH WARD,42.65812,-73.74837,Entire home/apt,115,1,56,29/10/2023,2.09,15,364,18
+Rental unit in Albany · ★4.99 · 1 bedroom · 2 beds · 1 bath,Lloyd,SIXTH WARD,42.65826,-73.76944,Entire home/apt,109,1,140,31/12/2023,5.24,3,339,62
+Vacation home in Albany · 3 bedrooms · 2 beds · 2 baths,Erwin,EIGHTH WARD,42.64792,-73.79953,Entire home/apt,250,3,0,,,1,365,0
+Home in Albany · ★4.59 · 1 bedroom · 2 beds · 1 bath,Iris,FIFTEENTH WARD,42.67004,-73.82367,Entire home/apt,88,2,27,24/05/2023,1.04,3,0,3
+Rental unit in Albany · ★4.80 · 1 bedroom · 1 bed · 1 bath,Diana,SECOND WARD,42.64369,-73.7581,Entire home/apt,97,1,40,01/12/2023,1.54,19,82,26
+Vacation home in Albany · ★4.96 · 4 bedrooms · 4 beds · 1.5 baths,Brian,FOURTEENTH WARD,42.65824,-73.80114,Entire home/apt,196,1,96,28/12/2023,3.92,3,245,36
+Rental unit in Albany · ★4.90 · 1 bedroom · 1 bed · 1 bath,Brian,SIXTH WARD,42.65204,-73.76655,Entire home/apt,99,1,170,31/12/2023,6.75,3,344,73
+Rental unit in Albany · ★4.63 · 2 bedrooms · 2 beds · 2 baths,Linda,FOURTH WARD,42.65913,-73.74722,Entire home/apt,150,1,72,06/11/2023,2.86,15,360,31
+Cottage in Albany · ★5.0 · 4 bedrooms · 4 beds · 1 bath,Peter,FIFTEENTH WARD,42.674675,-73.822861,Entire home/apt,224,1,16,18/11/2023,0.73,9,344,8
+Rental unit in Albany · ★5.0 · 1 bedroom · 1 bed · 1 bath,David,FOURTH WARD,42.65873,-73.7494,Entire home/apt,75,13,3,31/12/2022,0.13,3,365,0
+Place to stay in Albany · 1 bed · Half-bath,Roland,SECOND WARD,42.64683,-73.75662,Entire home/apt,300,1,0,,,1,365,0
+Home in Albany · ★4.79 · 1 bedroom · 1 bed · 1 bath,Erion,TENTH WARD,42.66261,-73.79026,Entire home/apt,72,1,61,20/12/2023,3.19,8,358,22
+Townhouse in Albany · ★4.96 · 1 bedroom · 1 bed · 1 bath,Erion,SIXTH WARD,42.65422,-73.76996,Entire home/apt,106,1,53,21/11/2023,2.44,8,347,25
+Townhouse in Albany · ★4.90 · 1 bedroom · 1 bed · 1 bath,Erion,SIXTH WARD,42.65403,-73.77056,Entire home/apt,111,1,99,01/09/2023,4.07,8,310,3
+Townhouse in Albany · ★4.99 · 2 bedrooms · 5 beds · 2 baths,Richard & Priscela,SIXTH WARD,42.65594,-73.76591,Entire home/apt,173,1,181,29/12/2023,7.92,1,0,85
+Townhouse in Albany · ★4.98 · 3 bedrooms · 4 beds · 2 baths,Jared,SIXTH WARD,42.65155,-73.765,Entire home/apt,145,1,111,01/01/2024,5.06,1,297,76
+Rental unit in Albany · ★4.80 · 2 bedrooms · 2 beds · 1 bath,Angela,SECOND WARD,42.64459,-73.75392,Entire home/apt,125,2,5,06/11/2022,0.31,4,5,0
+Townhouse in Albany · ★4.87 · 2 bedrooms · 2 beds · 1.5 baths,Allen,NINTH WARD,42.65578,-73.78641,Entire home/apt,99,3,31,25/12/2023,1.99,8,93,23
+Rental unit in Albany · ★4.85 · 1 bedroom · 1 bed · 1 bath,Allen,TENTH WARD,42.65905,-73.77964,Entire home/apt,79,2,33,22/12/2023,1.67,8,362,23
+Rental unit in Albany · ★4.96 · 1 bedroom · 1 bed · 1 bath,Shawn,THIRD WARD,42.65742,-73.74985,Entire home/apt,95,4,27,15/12/2023,1.1,2,88,11
+Townhouse in Albany · ★4.75 · 1 bedroom · 1 bed · 1 shared bath,Clyde,SIXTH WARD,42.65902,-73.7701,Private room,110,2,4,20/01/2023,0.17,4,364,1
+Townhouse in Albany · ★4.50 · 1 bedroom · 1 bed · 1 shared bath,Clyde,SIXTH WARD,42.6595,-73.76938,Private room,100,2,4,02/07/2023,0.18,4,364,2
+Townhouse in Albany · ★4.67 · 1 bedroom · 1 bed · 1.5 shared baths,Clyde,SIXTH WARD,42.6598,-73.76995,Private room,100,2,6,02/10/2022,0.26,4,363,0
+Rental unit in Albany · 1 bedroom · 2 beds · 1 bath,Uniah,NINTH WARD,42.66062,-73.79112,Entire home/apt,75,6,2,26/06/2023,0.14,1,363,1
+Rental unit in Albany · ★4.83 · 3 bedrooms · 3 beds · 1 bath,Peter,THIRTEENTH WARD,42.66919,-73.78672,Entire home/apt,266,2,6,24/12/2022,0.26,9,365,0
+Serviced apartment in Albany · ★4.77 · 1 bedroom · 1 bed · 1 bath,Diana,SECOND WARD,42.64342,-73.75742,Entire home/apt,120,1,64,10/12/2023,2.8,19,0,31
+Loft in Albany · ★4.65 · Studio · 1 bed · 1 bath,Linda,THIRD WARD,42.65848,-73.76359,Entire home/apt,115,1,36,01/11/2023,1.64,15,0,18
+Rental unit in Albany · ★5.0 · 1 bedroom · 1 bed · 1 bath,Michael,SECOND WARD,42.64441,-73.75647,Entire home/apt,110,13,9,15/12/2023,0.48,5,167,4
+Home in Albany · ★4.99 · 1 bedroom · 2 beds · 1 private bath,Thomas,THIRTEENTH WARD,42.66911,-73.79869,Private room,96,1,76,22/12/2023,4.14,10,0,59
+Rental unit in Albany · ★4.84 · Studio · 2 beds · 1 bath,Diana,SECOND WARD,42.64252,-73.75688,Entire home/apt,119,1,67,03/12/2023,3.12,19,0,40
+Rental unit in Albany · ★4.93 · 2 bedrooms · 3 beds · 1 bath,Reyana,NINTH WARD,42.652049,-73.7949665,Entire home/apt,100,2,28,01/01/2024,2,1,347,22
+Rental unit in Albany · ★4.92 · 1 bedroom · 1 bed · 1 bath,Brian,SIXTH WARD,42.65353,-73.7679,Entire home/apt,99,1,96,28/12/2023,4.73,3,336,52
+Loft in Albany · ★5.0 · 2 bedrooms · 2 beds · 1 bath,Nim,SIXTH WARD,42.65547943,-73.76625061,Entire home/apt,71,4,5,25/11/2023,0.35,1,221,4
+Rental unit in Albany · ★5.0 · 1 bedroom · 1 bed · 1 bath,Michael,SECOND WARD,42.64489,-73.75731,Entire home/apt,120,13,5,03/08/2023,0.28,5,249,2
+Home in Albany · ★4.67 · 2 bedrooms · 3 beds · 1.5 baths,Najeem Adegbemiga,SEVENTH WARD,42.640217,-73.780815,Entire home/apt,120,2,12,23/12/2023,0.72,1,363,6
+Home in Albany · ★5.0 · 5 bedrooms · 1 bed · 3.5 baths,Thomas,FOURTEENTH WARD,42.66762,-73.79919,Entire home/apt,1209,1,7,28/12/2023,0.39,10,241,2
+Condo in Albany · ★4.54 · 1 bedroom · 2 beds · 1 bath,Julia,THIRD WARD,42.65723,-73.75684,Entire home/apt,99,1,121,05/11/2023,6.02,3,83,66
+Rental unit in Albany · ★4.69 · 3 bedrooms · 3 beds · 1 bath,Umer,SEVENTH WARD,42.64372,-73.78426,Entire home/apt,137,2,25,24/11/2023,1.25,4,0,7
+Rental unit in Albany · ★4.95 · 1 bedroom · 2 beds · 1 bath,Kathryn,SIXTH WARD,42.65347,-73.7662,Entire home/apt,99,1,170,04/01/2024,8.82,1,306,111
+Rental unit in Albany · ★4.90 · 1 bedroom · 1 bed · 1 shared bath,Umer,SEVENTH WARD,42.64318,-73.78386,Private room,53,4,10,14/07/2023,0.5,4,179,3
+Rental unit in Albany · ★5.0 · 1 bedroom · 1 bed · 1 shared bath,Umer,SEVENTH WARD,42.64242,-73.78536,Private room,53,4,12,02/08/2023,0.62,4,179,6
+Rental unit in Albany · ★4.67 · 1 bedroom · 1 bed · 1 shared bath,Umer,SEVENTH WARD,42.64198,-73.78413,Private room,53,4,6,26/07/2023,0.31,4,179,2
+Rental unit in Albany · ★4.75 · 1 bedroom · 1 bed · 1 bath,Linda,SECOND WARD,42.64528,-73.75861,Entire home/apt,120,1,36,29/10/2023,1.87,15,364,24
+Rental unit in Albany · 2 bedrooms · 2 beds · 1 private bath,Jordan,THIRD WARD,42.66169975,-73.76466828,Private room,68,2,0,,,1,88,0
+Rental unit in Albany · ★4.65 · 1 bedroom · 1 bed · 1 bath,Linda,SECOND WARD,42.64558,-73.75928,Entire home/apt,115,1,40,30/10/2023,2.04,15,282,25
+Rental unit in Albany · ★4.55 · 3 bedrooms · 3 beds · 1 bath,Angela,SECOND WARD,42.645252,-73.753433,Entire home/apt,140,2,10,26/11/2023,0.93,4,0,10
+Rental unit in Albany · ★4.96 · 3 bedrooms · 3 beds · 1 bath,Lori,SIXTH WARD,42.65323,-73.76797,Entire home/apt,113,2,74,04/09/2023,3.82,1,131,43
+Home in Albany · ★4.86 · 3 bedrooms · 3 beds · 1 shared bath,Neha,ELEVENTH WARD,42.6635364,-73.7778236,Private room,48,10,21,16/08/2023,1.18,1,365,9
+Rental unit in Albany · ★4.40 · 2 bedrooms · 2 beds · 1 bath,Julia,THIRD WARD,42.65802,-73.756165,Entire home/apt,108,1,119,01/01/2024,6.13,3,0,75
+Rental unit in Albany · ★5.0 · 1 bedroom · 1 bed · 1 bath,Joshua,SIXTH WARD,42.65427,-73.76455,Entire home/apt,75,3,24,02/01/2024,1.37,4,358,18
+Condo in Albany · 2 bedrooms · 1 bath,Jessica,THIRTEENTH WARD,42.66897,-73.79653,Entire home/apt,100,30,0,,,2,45,0
+Rental unit in Albany · ★4.60 · Studio · 1 bed · 1 bath,Michael,SECOND WARD,42.64625,-73.75663,Entire home/apt,89,14,5,05/08/2023,0.3,5,187,2
+Rental unit in Albany · ★4.61 · 2 bedrooms · 3 beds · 2 baths,Aggie,SECOND WARD,42.64595,-73.76196,Entire home/apt,93,1,44,10/12/2023,2.56,3,329,26
+Rental unit in Albany · 1 bedroom · 1 bed · 1 bath,Grant,SIXTH WARD,42.65389,-73.76538,Entire home/apt,130,2,1,20/03/2023,0.1,1,90,1
+Rental unit in Albany · ★4.69 · 1 bedroom · 1 bed · 1 bath,Linda,FOURTH WARD,42.65752,-73.74743,Entire home/apt,115,1,36,01/10/2023,2.01,15,289,23
+Rental unit in Albany · 1 bedroom · 5 beds · 1 bath,Urbangem,SECOND WARD,42.64493,-73.75725,Entire home/apt,275,5,0,,,6,365,0
+Rental unit in Albany · ★5.0 · 1 bedroom · 1 bed · 1 bath,Shawn,THIRD WARD,42.65795,-73.75092,Entire home/apt,101,4,13,11/10/2023,0.74,2,268,9
+Home in Albany · ★5.0 · 3 bedrooms · 3 beds · 1 bath,Patrice,FIRST WARD,42.6374547,-73.7716647,Entire home/apt,159,5,5,22/09/2023,0.28,3,252,3
+Rental unit in Albany · ★New · 1 bedroom · 2 beds · 1 bath,Jonathan,SIXTH WARD,42.65808213,-73.77000952,Entire home/apt,,3,0,,,1,269,0
+Home in Albany · 4 bedrooms · 3 beds · 1.5 baths,Patrice,FIRST WARD,42.6382401,-73.7719405,Entire home/apt,139,5,1,15/07/2022,0.06,3,359,0
+Rental unit in Albany · ★4.95 · 1 bedroom · 2 beds · 1 bath,Sean,SIXTH WARD,42.65541381,-73.76367521,Entire home/apt,118,2,60,11/12/2023,3.42,1,0,41
+Home in Albany · ★5.0 · 1 bedroom · 1 bed · 1.5 shared baths,Thomas,FOURTEENTH WARD,42.66758,-73.7992,Private room,81,1,87,29/12/2023,4.82,10,0,58
+Home in Albany · ★4.92 · 1 bedroom · 1 bed · 1.5 shared baths,Thomas,FOURTEENTH WARD,42.66764,-73.79908,Private room,83,1,75,20/12/2023,4.16,10,0,49
+Home in Albany · 3 bedrooms · 5 beds · 1 bath,Wayne,FIFTH WARD,42.66381,-73.75919,Entire home/apt,125,7,2,22/12/2022,0.13,1,279,0
+Rental unit in Albany · ★4.86 · 2 bedrooms · 2 beds · 1 bath,Johnny,SECOND WARD,42.64531,-73.75963,Entire home/apt,65,2,28,29/09/2023,1.66,1,151,12
+Townhouse in Albany · ★4.91 · 3 bedrooms · 3 beds · 1 bath,Romel,THIRTEENTH WARD,42.6694413,-73.7974941,Entire home/apt,142,1,53,03/12/2023,3.07,1,0,32
+Rental unit in Albany · 1 bedroom · 1 bed · 1 bath,Patrice,FIRST WARD,42.63716,-73.77227,Entire home/apt,60,7,0,,,3,318,0
+Vacation home in Albany · 2 bedrooms · 2 beds · 1 bath,Md,SECOND WARD,42.646896,-73.757612,Entire home/apt,140,1,2,20/08/2023,0.19,3,126,2
+Rental unit in Albany · ★4.80 · 4 bedrooms · 4 beds · 2 baths,Diana,TENTH WARD,42.66172,-73.78497,Entire home/apt,179,1,78,13/12/2023,4.5,19,0,56
+Condo in Albany · ★4.40 · 1 bedroom · 2 beds · 1 bath,Julia,THIRD WARD,42.65732,-73.75676,Entire home/apt,99,1,73,13/11/2023,4.2,3,86,52
+Rental unit in Albany · ★4.60 · 1 bedroom · 1 bed · 1 bath,Jerry,SEVENTH WARD,42.64759,-73.77049,Entire home/apt,99,2,5,27/08/2023,0.29,6,364,2
+Home in Albany · ★4.78 · 1 bedroom · 1 bed · 1 shared bath,Brigid,TENTH WARD,42.6629848,-73.781535,Private room,50,5,9,26/05/2023,0.53,4,356,2
+Vacation home in Albany · ★3.25 · 3 bedrooms · 3 beds · 1 bath,Md,SECOND WARD,42.64621,-73.75723,Entire home/apt,170,1,4,28/05/2023,0.26,3,126,2
+Vacation home in Albany · ★4.08 · 3 bedrooms · 4 beds · 1 bath,Md,SECOND WARD,42.646896,-73.757612,Entire home/apt,169,1,12,26/07/2023,0.7,3,0,6
+Condo in Albany · ★4.89 · 1 bedroom · 1 bed · 1 bath,David,SIXTH WARD,42.65405765,-73.760713,Entire home/apt,97,1,138,02/01/2024,8.18,2,237,117
+Home in Albany · ★4.81 · 2 bedrooms · 2 beds · 1.5 baths,Hyacinth,TENTH WARD,42.66344638,-73.78874122,Private room,50,1,21,09/04/2023,1.3,1,0,5
+Rental unit in Albany · ★4.87 · 1 bedroom · 1 bed · 1 bath,Rabia,ELEVENTH WARD,42.6623,-73.777,Entire home/apt,105,1,60,23/12/2023,4.81,1,0,58
+Home in Albany · ★5.0 · 1 bedroom · 1 bed · 1 bath,Kelsey,EIGHTH WARD,42.64971,-73.80079,Entire home/apt,200,4,7,26/08/2023,0.49,1,0,3
+Home in Albany · ★4.36 · 1 bedroom · 1 bed · 1.5 shared baths,Brigid,ELEVENTH WARD,42.66247,-73.77469,Private room,34,3,14,08/12/2023,0.85,4,343,7
+Home in Albany · 1 bedroom · 1 bed · 1.5 shared baths,Brigid,TENTH WARD,42.66046,-73.77375,Private room,40,5,1,10/11/2023,0.52,4,339,1
+Rental unit in Albany · ★5.0 · 1 bedroom · 1 bed · 1 bath,Michael,SECOND WARD,42.64577,-73.7583,Entire home/apt,110,13,3,13/08/2023,0.24,5,328,2
+Home in Albany · ★4.50 · 1 bedroom · 1 bed · 2 shared baths,Edward,FOURTEENTH WARD,42.66008,-73.79816,Private room,27,30,4,16/08/2023,0.31,3,317,3
+Home in Albany · 1 bedroom · 1 bed · 2 shared baths,Edward,FOURTEENTH WARD,42.65929701,-73.79720148,Private room,27,30,2,23/05/2023,0.14,3,331,1
+Home in Albany · ★3.50 · 1 bedroom · 1 bed · 2 shared baths,Edward,FOURTEENTH WARD,42.65935889,-73.7972692,Private room,27,30,4,05/08/2023,0.29,3,364,3
+Rental unit in Albany · ★4.71 · 2 bedrooms · 2 beds · 1 bath,Aggie,SECOND WARD,42.64638,-73.76146,Entire home/apt,91,1,34,11/12/2023,2.21,3,349,29
+Rental unit in Albany · 1 bedroom · 1 bed · 1 shared bath,Mesut,TENTH WARD,42.65893,-73.78437,Private room,50,2,1,22/09/2022,0.06,1,352,0
+Rental unit in Albany · ★5.0 · 2 bedrooms · 2 beds · 1 bath,Diana,THIRTEENTH WARD,42.6732,-73.79199,Entire home/apt,135,2,29,03/12/2023,2,19,88,23
+Home in Albany · ★4.93 · 4 bedrooms · 4 beds · 2 baths,Nori,NINTH WARD,42.65691,-73.78389,Entire home/apt,198,1,112,29/12/2023,8.08,1,0,97
+Rental unit in Albany · ★5.0 · 1 bedroom · 1 bed · 1 bath,Mela,SIXTH WARD,42.6513719,-73.7673156,Entire home/apt,115,2,17,29/12/2023,4.05,1,343,17
+Rental unit in Albany · ★4.87 · 1 bedroom · 1 bed · 1 bath,Lucy,THIRD WARD,42.65103,-73.7574,Entire home/apt,,3,23,29/04/2023,1.52,1,0,8
+Rental unit in Albany · 1 bedroom · 1 bed · 1 bath,Andrew,SIXTH WARD,42.65035,-73.76549,Entire home/apt,68,14,1,26/03/2023,0.1,1,310,1
+Rental unit in Albany · ★4.83 · 1 bedroom · 1 bed · 1 bath,Earl,THIRD WARD,42.64564,-73.75261,Entire home/apt,85,1,29,21/12/2023,2.01,6,345,26
+Rental unit in Albany · ★4.50 · 2 bedrooms · 4 beds · 1.5 baths,Evolve,SIXTH WARD,42.65245,-73.76294,Entire home/apt,204,2,8,09/07/2023,0.56,6,145,4
+Rental unit in Albany · 1 bedroom · 1 bed · 1 shared bath,Elizabeth,SIXTH WARD,42.65643,-73.76402,Private room,60,30,2,28/11/2022,0.14,1,246,0
+Rental unit in Albany · ★4.72 · 4 bedrooms · 4 beds · 1 bath,Diana,TENTH WARD,42.66069,-73.78555,Entire home/apt,185,1,31,23/10/2023,2.21,19,0,28
+Home in Albany · ★4.95 · 1 bedroom · 1 bed · 1 shared bath,Bela,NINTH WARD,42.6543178,-73.7818222,Private room,45,2,19,16/12/2023,1.31,8,355,17
+Rental unit in Albany · ★4.75 · 1 bedroom · 1 bed · 1 bath,Blossom Estates,NINTH WARD,42.65569,-73.77685,Entire home/apt,99,1,4,26/01/2023,0.32,2,319,2
+Rental unit in Albany · ★5.0 · 1 bedroom · 1 bed · 1 bath,James,SEVENTH WARD,42.6496,-73.76792,Entire home/apt,81,2,9,30/12/2023,1.01,2,262,9
+Home in Albany · ★4.67 · 1 bedroom · 1 bed · 1.5 shared baths,Brigid,TENTH WARD,42.66054,-73.77447,Private room,34,4,6,30/11/2023,0.76,4,174,6
+Rental unit in Albany · ★4.92 · 2 bedrooms · 2 beds · 1 bath,Keneisha,FIFTH WARD,42.66648,-73.76831,Entire home/apt,91,2,12,22/10/2023,1.12,1,0,12
+Condo in Albany · ★4.91 · 2 bedrooms · 2 beds · 1 bath,Vorakij,SECOND WARD,42.64439385,-73.75975702,Entire home/apt,140,2,31,17/12/2023,2.95,2,0,31
+Condo in Albany · ★4.83 · 2 bedrooms · 2 beds · 1 bath,Vorakij,SECOND WARD,42.6444412,-73.7597141,Entire home/apt,138,2,23,28/12/2023,2.59,2,359,23
+Rental unit in Albany · ★5.0 · 1 bedroom · 1 bed · 1 shared bath,Musab,SIXTH WARD,42.65259,-73.76732,Private room,50,3,12,10/11/2023,0.97,2,175,11
+Rental unit in Albany · ★5.0 · 1 bedroom · 1 bed · 1 bath,Elizabeth,SIXTH WARD,42.65534,-73.76461,Entire home/apt,70,7,9,30/09/2023,0.66,8,350,7
+Rental unit in Albany · ★4.95 · 2 bedrooms · 2 beds · 1 bath,Diana,THIRTEENTH WARD,42.67348,-73.7934,Entire home/apt,128,2,21,03/12/2023,1.99,19,0,21
+Rental unit in Albany · ★4.95 · 1 bedroom · 1 bed · 1 bath,Erion,SIXTH WARD,42.65405,-73.76953,Entire home/apt,117,1,20,22/10/2023,1.55,8,276,17
+Home in Albany · ★5.0 · 1 bedroom · 1 bed · 1 shared bath,Melissa,TENTH WARD,42.66117,-73.79091,Private room,75,1,8,05/11/2023,0.6,3,78,7
+Home in Albany · ★4.85 · 1 bedroom · 1 bed · 1 bath,Hasan,FOURTEENTH WARD,42.6601,-73.80719,Entire home/apt,60,1,33,04/12/2023,2.67,1,249,31
+Home in Albany · ★4.82 · 2 bedrooms · 2 beds · 2 baths,Massi,SIXTH WARD,42.6518469,-73.7642072,Entire home/apt,127,2,22,31/12/2023,1.76,1,116,20
+Rental unit in Albany · ★4.79 · 1 bedroom · 1 bed · 1 bath,Queen,THIRD WARD,42.65725,-73.75065,Entire home/apt,98,1,33,05/01/2024,2.67,1,0,31
+Bed and breakfast in Albany · 1 bedroom · 2 beds · 1 private bath,Terra,NINTH WARD,42.65664,-73.77556,Private room,130,1,1,13/06/2023,0.14,10,143,1
+Bed and breakfast in Albany · ★4.75 · 1 bedroom · 1 bed · 1 private bath,Terra,NINTH WARD,42.65561,-73.77613,Private room,130,1,4,08/10/2023,0.45,10,144,4
+Rental unit in Albany · ★4.89 · 1 bedroom · 1 bed · 1 bath,Abba,SIXTH WARD,42.65183,-73.76594,Entire home/apt,110,1,9,05/08/2023,0.73,6,26,8
+Home in Albany · ★4.64 · 1 bedroom · 1 bed · 1 private bath,Donna,FOURTEENTH WARD,42.66298,-73.81361,Private room,60,1,11,20/10/2023,1.01,1,83,11
+Rental unit in Albany · 1 bedroom · 1 bed · 1 bath,Elizabeth,THIRD WARD,42.65653,-73.76223,Entire home/apt,74,1,2,08/10/2023,0.4,8,351,2
+Home in Albany · ★4.78 · 5 bedrooms · 5 beds · 3.5 baths,Drasana,FOURTH WARD,42.67996,-73.75352,Entire home/apt,536,2,9,02/01/2024,0.85,1,333,9
+Rental unit in Albany · 1 bedroom · 1 bed · 1 bath,Elizabeth,SIXTH WARD,42.65322,-73.76249,Entire home/apt,80,7,1,02/10/2023,0.31,8,357,1
+Rental unit in Albany · ★4.74 · 1 bedroom · 1 bed · 1 bath,Tomar & Kash,FIFTH WARD,42.65915031,-73.75431933,Entire home/apt,95,2,31,13/12/2023,2.75,1,245,31
+Home in Albany · ★4.92 · 3 bedrooms · 4 beds · 2 baths,Scott,FOURTEENTH WARD,42.6653,-73.7943,Entire home/apt,190,1,37,21/12/2023,3.54,5,0,37
+Rental unit in Albany · ★4.89 · 2 bedrooms · 2 beds · 1.5 baths,Diana,SECOND WARD,42.64324,-73.75732,Entire home/apt,150,1,37,03/12/2023,2.99,19,0,36
+Rental unit in Albany · ★5.0 · 1 bedroom · 1 bed · 1 bath,Joshua,SIXTH WARD,42.65489,-73.77061,Entire home/apt,102,3,11,02/12/2023,1,4,281,11
+Rental unit in Albany · ★4.33 · 3 bedrooms · 3 beds · 1 bath,Carla,FIFTH WARD,42.67283,-73.77367,Entire home/apt,104,3,6,21/11/2023,0.8,1,115,6
+Bed and breakfast in Albany · 7 bedrooms · 8 beds · 7 baths,Terra,NINTH WARD,42.656329,-73.7752048,Private room,779,1,1,13/08/2023,0.2,6,99,1
+Bed and breakfast in Albany · ★5.0 · 1 bedroom · 1 bed · 1 private bath,Terra,NINTH WARD,42.65582,-73.77541,Private room,122,1,5,27/10/2023,0.89,6,358,5
+Rental unit in Albany · ★4.31 · 1 bedroom · 1 bed · 1 bath,Shane,NINTH WARD,42.6538578,-73.7855281,Entire home/apt,86,3,13,23/11/2023,1.34,1,199,13
+Home in Albany · ★4.90 · 1 bedroom · 1 bed · 1 shared bath,Share,TENTH WARD,42.65741,-73.78034,Private room,60,2,10,17/11/2023,0.87,3,86,10
+Rental unit in Albany · 1 bedroom · 1 bed · 1 bath,Patrick,SIXTH WARD,42.65315,-73.77012,Entire home/apt,80,30,2,18/05/2023,0.21,1,364,2
+Rental unit in Albany · ★4.83 · 1 bedroom · 1 bed · 1 bath,Abba,SIXTH WARD,42.65038,-73.76664,Entire home/apt,115,1,5,11/12/2023,0.45,6,0,5
+Home in Albany · ★4.67 · 3 bedrooms · 5 beds · 1 bath,Evolve,THIRTEENTH WARD,42.66958,-73.79722,Entire home/apt,132,2,9,27/08/2023,0.85,6,341,9
+Bed and breakfast in Albany · ★4.0 · 1 bedroom · 1 bed · 1 private bath,Terra,SIXTH WARD,42.65751,-73.77409,Private room,122,1,4,24/11/2023,0.78,6,352,4
+Rental unit in Albany · ★3.40 · 1 bedroom · 1 bed · 1 bath,Fran,TENTH WARD,42.6601122,-73.7754681,Entire home/apt,120,1,5,22/10/2023,0.42,1,279,5
+Rental unit in Albany · 3 bedrooms · 3 beds · 2 baths,David,FOURTEENTH WARD,42.66691,-73.79338,Entire home/apt,125,14,1,20/06/2023,0.15,2,257,1
+Bed and breakfast in Albany · ★4.67 · 1 bedroom · 2 beds · 1 private bath,Terra,NINTH WARD,42.656329,-73.775205,Private room,122,1,3,27/08/2023,0.53,6,353,3
+Bed and breakfast in Albany · ★4.25 · 1 bedroom · 1 bed · 1 private bath,Terra,NINTH WARD,42.656329,-73.775205,Private room,122,1,4,28/07/2023,0.69,6,353,4
+Rental unit in Albany · ★4.56 · 2 bedrooms · 2 beds · 1 bath,Diana,THIRD WARD,42.65588,-73.75332,Entire home/apt,95,1,54,22/12/2023,5.02,1,168,54
+Home in Albany · ★4.65 · 2 bedrooms · 2 beds · 2 baths,Alexis,FIFTH WARD,42.6684126,-73.7684199,Entire home/apt,103,1,20,26/11/2023,1.75,1,249,20
+Rental unit in Albany · ★4.97 · 2 bedrooms · 2 beds · 1 bath,Caroline,THIRTEENTH WARD,42.67239,-73.79418,Entire home/apt,87,3,29,06/12/2023,2.69,1,52,29
+Rental unit in Albany · ★4.80 · 1 bedroom · 1 bed · 1 shared bath,Fs,THIRTEENTH WARD,42.67143615,-73.7903255,Private room,45,2,10,31/12/2023,1.91,4,364,10
+Rental unit in Albany · ★4.60 · 1 bedroom · 1 bed · 1 bath,Erion,SIXTH WARD,42.65258,-73.76917,Entire home/apt,89,1,25,11/12/2023,2.25,8,334,25
+Townhouse in Albany · 1 bedroom · 1 bed · 1 bath,Evolve,TENTH WARD,42.66011,-73.77547,Entire home/apt,101,2,0,,,6,281,0
+Home in Albany · ★5.0 · 1 bedroom · 1 bed · 1 private bath,Cristian,FOURTEENTH WARD,42.66109,-73.80479,Private room,55,2,3,30/11/2023,0.29,2,248,3
+Townhouse in Albany · 3 bedrooms · 3 beds · 1 bath,Manjano,SIXTH WARD,42.65184046,-73.77073691,Entire home/apt,,2,0,,,1,0,0
+Rental unit in Albany · ★4.73 · 2 bedrooms · 2 beds · 1 bath,Blossom Estates,NINTH WARD,42.65613,-73.77469,Entire home/apt,113,1,15,03/09/2023,1.4,2,350,15
+Home in Albany · ★4.95 · 5 bedrooms · 5 beds · 2 baths,Tiffany,FIFTEENTH WARD,42.67076,-73.82612,Entire home/apt,200,2,43,27/12/2023,4.29,1,233,43
+Rental unit in Albany · 2 bedrooms · 2 beds · 1 bath,Natasha,SIXTH WARD,42.66007584,-73.76976949,Entire home/apt,110,2,1,04/09/2023,0.24,2,361,1
+Rental unit in Albany · ★4.50 · 2 bedrooms · 2 beds · 1 bath,Natasha,SIXTH WARD,42.65987,-73.77025,Entire home/apt,110,2,11,03/12/2023,1.71,2,0,11
+Rental unit in Albany · 3 bedrooms · 2 beds · 1 bath,Elizabeth,SIXTH WARD,42.65481,-73.76352,Entire home/apt,90,1,2,04/09/2023,0.21,8,365,2
+Home in Albany · ★4.95 · 4 bedrooms · 5 beds · 2 baths,Nanette,FIRST WARD,42.63504,-73.79833,Entire home/apt,231,2,43,04/01/2024,4.48,1,91,43
+Rental unit in Albany · ★4.60 · 3 bedrooms · 3 beds · 2 baths,Phil,TWELFTH WARD,42.67336,-73.78619,Entire home/apt,175,3,10,07/10/2023,1.12,2,361,10
+Townhouse in Albany · ★4.98 · 1 bedroom · 2 beds · 1 private bath,Phat,SECOND WARD,42.6446,-73.75885,Private room,90,1,61,29/12/2023,6.65,1,334,61
+Home in Albany · ★5.0 · 1 bedroom · 1 bed · 1.5 shared baths,Emily,THIRTEENTH WARD,42.67177,-73.79464,Private room,52,5,5,03/11/2023,0.94,2,144,5
+Rental unit in Albany · ★4.75 · 1 bedroom · 2 beds · 1 bath,Blake,SECOND WARD,42.6457663,-73.7586141,Entire home/apt,85,1,28,03/12/2023,3.08,1,88,28
+Rental unit in Albany · ★4.73 · 1 bedroom · 1 bed · 1 bath,David,THIRD WARD,42.65817,-73.74935,Entire home/apt,78,3,11,16/12/2023,1.45,3,365,11
+Rental unit in Albany · ★4.63 · 1 bedroom · 2 beds · 1 bath,He,FOURTEENTH WARD,42.66947,-73.81607,Entire home/apt,79,1,48,17/12/2023,5.48,1,0,48
+Home in Albany · 1 bedroom · 1 bed · 1 private bath,Cristian,FOURTEENTH WARD,42.66128,-73.80548,Private room,55,3,1,01/10/2023,0.31,2,0,1
+Home in Albany · 1 bedroom · 1 bed · 1 shared bath,Leslie,FOURTEENTH WARD,42.66065,-73.80439,Private room,199,7,0,,,1,218,0
+Rental unit in Albany · ★4.83 · 3 bedrooms · 3 beds · 2 baths,Phil,ELEVENTH WARD,42.67355,-73.78496,Entire home/apt,175,2,18,27/11/2023,2.27,2,179,18
+Rental unit in Albany · ★5.0 · 1 bedroom · 1 bed · 1 bath,Erion,SIXTH WARD,42.65379,-73.76901,Entire home/apt,117,1,8,13/06/2023,0.96,8,247,8
+Rental unit in Albany · ★4.85 · 1 bedroom · 1 bed · 1 bath,Miguelino,TENTH WARD,42.6599733,-73.7747433,Entire home/apt,72,2,26,03/12/2023,3.33,1,177,26
+Rental unit in Albany · ★4.85 · 1 bedroom · 2 beds · 1 shared bath,Gabriel,THIRD WARD,42.66246,-73.76576,Private room,45,1,13,16/09/2023,1.81,2,363,13
+Rental unit in Albany · ★4.82 · 1 bedroom · 1 bed · 1.5 baths,Gabriel,THIRD WARD,42.6628771,-73.7653403,Private room,45,1,11,15/09/2023,1.42,2,343,11
+Rental unit in Albany · ★5.0 · 2 bedrooms · 3 beds · 1 bath,Evolve,THIRD WARD,42.6573,-73.7521,Entire home/apt,127,2,3,27/08/2023,0.39,6,361,3
+Home in Albany · ★5.0 · 2 bedrooms · 2 beds · 1 bath,Erion,TENTH WARD,42.66215778,-73.79234534,Entire home/apt,139,1,8,12/11/2023,1.18,8,362,8
+Home in Albany · ★4.86 · 5 bedrooms · 6 beds · 2 baths,Rashawn,TENTH WARD,42.66087,-73.78655,Entire home/apt,204,2,27,22/12/2023,4.01,1,0,27
+Rental unit in Albany · ★4.85 · 2 bedrooms · 2 beds · 1 bath,Linda,SEVENTH WARD,42.64787,-73.76707,Entire home/apt,155,1,20,23/11/2023,2.97,15,353,20
+Home in Albany · 1 bedroom · 1 bed · 1 shared bath,Scott,TENTH WARD,42.66174,-73.78325,Private room,63,90,0,,,5,232,0
+Rental unit in Albany · ★5.0 · 1 bedroom · 2 beds · 2 baths,Peter,THIRTEENTH WARD,42.6652959,-73.7868778,Entire home/apt,333,2,7,09/10/2023,1,9,180,7
+Home in Albany · ★4.88 · 4 bedrooms · 4 beds · 1 bath,Scott,TENTH WARD,42.66217,-73.78299,Entire home/apt,185,1,17,28/12/2023,2.88,5,357,17
+Home in Albany · 1 bedroom · 1 bed · 1 shared bath,Melissa,TENTH WARD,42.66292,-73.7909,Private room,,1,1,26/07/2023,0.18,3,0,1
+Home in Albany · ★4.86 · 1 bedroom · 1 bed · 1 shared bath,Melissa,TENTH WARD,42.66261,-73.79158,Private room,72,1,7,03/12/2023,1.15,3,89,7
+Rental unit in Albany · ★4.80 · 2 bedrooms · 3 beds · 1 bath,Maria,SEVENTH WARD,42.6519373,-73.78593012,Entire home/apt,170,1,68,28/12/2023,10.3,2,0,68
+Rental unit in Albany · 1 bedroom · 1 bed · 1 bath,Grace,FIFTH WARD,42.67292,-73.7776,Private room,93,1,0,,,1,365,0
+Home in Albany · ★5.0 · 1 bedroom · 1 bed · 1 shared bath,Elizabeth,NINTH WARD,42.6559529,-73.7807478,Private room,33,1,5,28/12/2023,1.02,2,359,5
+Rental unit in Albany · 1 bedroom · 1 bed · 1 bath,Kody,THIRD WARD,42.6586,-73.75743,Entire home/apt,80,7,2,07/09/2023,0.4,1,269,2
+Rental unit in Albany · 2 bedrooms · 2 beds · 1 bath,Connie,NINTH WARD,42.65483723,-73.79149619,Entire home/apt,114,6,1,14/08/2023,0.21,1,0,1
+Home in Albany · ★5.0 · 1 bedroom · 2 beds · 1 shared bath,Elizabeth,NINTH WARD,42.65496591,-73.78021705,Private room,44,1,6,18/09/2023,1.01,2,359,6
+Rental unit in Albany · ★5.0 · 1 bedroom · 2 beds · 1 bath,Thaddeus,THIRTEENTH WARD,42.6695423,-73.7960644,Entire home/apt,68,1,12,19/12/2023,2.22,1,106,12
+Rental unit in Albany · ★5.0 · 1 bedroom · 1 bed · 1 bath,Diana,THIRTEENTH WARD,42.67294335,-73.79225343,Entire home/apt,125,1,5,03/09/2023,0.86,19,364,5
+Rental unit in Albany · ★4.90 · 2 bedrooms · 2 beds · 1 bath,Diana,THIRTEENTH WARD,42.67132411,-73.79247187,Entire home/apt,150,1,10,03/12/2023,1.79,19,358,10
+Bed and breakfast in Albany · ★4.0 · 1 bedroom · 1 bed · 1 bath,Terra,SIXTH WARD,42.65654926,-73.77433674,Private room,122,1,3,02/09/2023,0.55,6,360,3
+Rental unit in Albany · 2 bedrooms · 2 beds · 1 bath,Evolve,SIXTH WARD,42.65506,-73.76401,Entire home/apt,96,2,0,,,1,0,0
+Hotel in Albany · 1 bedroom · 1 bed · 1 bath,Argus,SIXTH WARD,42.6586722,-73.77478693,Private room,128,1,1,03/09/2023,0.24,12,338,1
+Hotel in Albany · 1 bedroom · 1 bed · 1 bath,Argus,ELEVENTH WARD,42.6606,-73.77284,Private room,128,1,1,08/10/2023,0.33,12,338,1
+Rental unit in Albany · ★4.87 · 2 bedrooms · 3 beds · 1 bath,Maria,SEVENTH WARD,42.65184,-73.78582,Entire home/apt,170,1,52,28/12/2023,10.26,2,344,52
+Hotel in Albany · ★4.75 · 1 bedroom · 1 bed · 1 bath,Argus,TENTH WARD,42.65908259,-73.77455698,Private room,128,1,4,24/10/2023,0.82,12,356,4
+Hotel in Albany · 1 bedroom · 1 bed · 1 bath,Argus,TENTH WARD,42.66043,-73.77432,Private room,128,1,0,,,12,354,0
+Hotel in Albany · 1 bedroom · 1 bed · 1 bath,Argus,SIXTH WARD,42.65846944,-73.77272373,Private room,128,1,1,22/10/2023,0.39,12,350,1
+Hotel in Albany · 1 bedroom · 1 bed · 1 bath,Argus,SIXTH WARD,42.6590802,-73.7732586,Private room,162,1,0,,,12,346,0
+Hotel in Albany · 1 bedroom · 1 bed · 1 bath,Argus,TENTH WARD,42.66003432,-73.77320092,Private room,250,1,0,,,12,349,0
+Hotel in Albany · 1 bedroom · 1 bed · 1 bath,Argus,SIXTH WARD,42.65856544,-73.77439829,Private room,162,1,0,,,12,344,0
+Hotel in Albany · 1 bedroom · 1 bed · 1 bath,Argus,SIXTH WARD,42.65892659,-73.77448007,Private room,162,1,0,,,12,347,0
+Hotel in Albany · 1 bedroom · 1 bed · 1 bath,Argus,TENTH WARD,42.6603672,-73.77326956,Private room,162,1,0,,,12,350,0
+Hotel in Albany · 1 bedroom · 1 bed · 1 bath,Argus,SIXTH WARD,42.65868262,-73.77332643,Private room,250,1,0,,,12,355,0
+Guesthouse in Albany · ★5.0 · 3 bedrooms · 4 beds · 2 baths,Argus,TENTH WARD,42.66036253,-73.77290224,Entire home/apt,307,1,4,03/12/2023,0.79,12,327,4
+Home in Albany · ★4.88 · 1 bedroom · 1 bed · 1 shared bath,Fs,ELEVENTH WARD,42.6708367,-73.7853116,Private room,45,1,8,30/11/2023,1.45,4,365,8
+Home in Albany · ★5.0 · 1 bedroom · 1 bed · 1 shared bath,Fs,THIRTEENTH WARD,42.66973566,-73.78610658,Private room,40,2,3,29/12/2023,0.54,4,360,3
+Rental unit in Albany · 2 bedrooms · 2 beds · 1 bath,Kelly,TWELFTH WARD,42.67398204,-73.79126384,Entire home/apt,110,3,0,,,1,260,0
+Home in Albany · 1 bedroom · 1 bed · 1 private bath,David Yisrael,FIFTEENTH WARD,42.68001107,-73.81705996,Private room,71,2,2,02/10/2023,0.44,3,39,2
+Rental unit in Albany · ★5.0 · 2 bedrooms · 2 beds · 1 bath,Abba,FOURTEENTH WARD,42.65801,-73.80049,Entire home/apt,115,1,3,01/10/2023,0.73,6,0,3
+Rental unit in Albany · 1 bedroom · 1 bed · 1 bath,Abba,FOURTEENTH WARD,42.65798404,-73.80128215,Private room,95,1,1,07/08/2023,0.2,6,5,1
+Home in Albany · ★New · 1 bedroom · 1 bed · 2 baths,Fs,ELEVENTH WARD,42.67033902,-73.78509801,Private room,50,2,0,,,4,264,0
+Home in Albany · 4 bedrooms · 12 beds · 2 baths,Urbangem,SECOND WARD,42.64297805,-73.75701914,Entire home/apt,399,1,0,,,6,365,0
+Home in Albany · 4 bedrooms · 10 beds · 2 baths,Urbangem,SECOND WARD,42.64424112,-73.75675302,Entire home/apt,599,2,0,,,6,365,0
+Rental unit in Albany · ★4.90 · 2 bedrooms · 2 beds · 1 bath,David,SIXTH WARD,42.6541815,-73.7608605,Entire home/apt,112,1,38,31/12/2023,8.09,2,0,38
+Home in Albany · 3 bedrooms · 4 beds · 2 baths,Shirin,FIRST WARD,42.63855426,-73.76927029,Entire home/apt,185,1,0,,,1,269,0
+Rental unit in Albany · ★5.0 · 1 bedroom · 1 bed · 1 bath,Abba,TENTH WARD,42.66000843,-73.77397296,Entire home/apt,105,1,8,01/11/2023,1.7,6,0,8
+Home in Albany · ★4.96 · 2 bedrooms · 2 beds · 2 baths,Ermenita,NINTH WARD,42.6549886,-73.7939094,Entire home/apt,113,1,27,03/01/2024,5.74,1,328,27
+Home in Albany · 1 bedroom · 2 beds · 1 bath,David Yisrael,FIFTEENTH WARD,42.6789628,-73.81724462,Entire home/apt,118,3,1,24/11/2023,0.68,3,65,1
+Rental unit in Albany · ★4.67 · 1 bedroom · 1 bed · 1 bath,Abba,SIXTH WARD,42.65586286,-73.76206231,Entire home/apt,105,1,2,14/11/2023,0.86,6,0,2
+Rental unit in Albany · ★4.86 · 1 bedroom · 1 bed · 1 bath,Justin,SIXTH WARD,42.65240863,-73.77002141,Entire home/apt,89,1,7,28/12/2023,1.6,1,346,7
+Rental unit in Albany · ★5.0 · 2 bedrooms · 2 beds · 1 bath,Tanjin,FIFTEENTH WARD,42.67059399,-73.81678288,Entire home/apt,98,3,3,07/10/2023,0.87,1,174,3
+Rental unit in Albany · ★4.58 · 2 bedrooms · 1 bath,Chadell,THIRD WARD,42.65679551,-73.75335662,Entire home/apt,108,1,11,17/12/2023,3.3,1,0,11
+Rental unit in Albany · 2 bedrooms · 2 beds · 2 baths,James,THIRD WARD,42.6539354,-73.7513252,Entire home/apt,129,180,0,,,1,118,0
+Rental unit in Albany · ★5.0 · 2 bedrooms · 3 beds · 1 bath,JShing,SIXTH WARD,42.65312775,-73.76950465,Entire home/apt,125,1,3,12/11/2023,1.05,1,0,3
+Rental unit in Albany · 1 bedroom · 1 bed · 1 bath,Deanna,SEVENTH WARD,42.65246332,-73.77498767,Entire home/apt,236,1,0,,,1,270,0
+Rental unit in Albany · 2 bedrooms · 4 beds · 1 bath,Tyrell,FIFTH WARD,42.66627901,-73.76511948,Entire home/apt,120,2,1,22/10/2023,0.39,1,175,1
+Rental unit in Albany · ★4.58 · 3 bedrooms · 3 beds · 1 bath,Antonio,ELEVENTH WARD,42.66391566,-73.77786946,Entire home/apt,115,1,12,10/12/2023,3.4,1,253,12
+Rental unit in Albany · 1 bedroom · 2 beds · 1 bath,Ahmad,SIXTH WARD,42.65411,-73.76129,Entire home/apt,99,30,2,07/11/2023,0.63,1,171,2
+Home in Albany · 4 bedrooms · 5 beds · 1.5 baths,Priscilla,THIRTEENTH WARD,42.67159925,-73.79798657,Entire home/apt,218,1,0,,,1,269,0
+Rental unit in Albany · ★New · 1 bedroom · 1 bed · 1 bath,Grace,SIXTH WARD,42.65259924,-73.76178014,Entire home/apt,82,1,0,,,1,248,0
+Rental unit in Albany · ★5.0 · 2 bedrooms · 2 beds · 1 bath,Allen,FOURTEENTH WARD,42.67097736,-73.80695226,Entire home/apt,99,3,4,03/12/2023,1.3,8,116,4
+Home in Albany · 4 bedrooms · 4 beds · 3.5 baths,Timothy,SEVENTH WARD,42.64485687,-73.77281881,Entire home/apt,143,6,0,,,1,99,0
+Rental unit in Albany · ★5.0 · 3 bedrooms · 4 beds · 1 bath,Ron,SIXTH WARD,42.65623,-73.7641152,Entire home/apt,136,2,5,22/12/2023,1.76,1,270,5
+Rental unit in Albany · ★5.0 · 1 bedroom · 1 bed · 1 bath,Amar,THIRD WARD,42.6576159,-73.75115885,Entire home/apt,147,30,5,05/11/2023,1.85,1,349,5
+Home in Albany · 3 bedrooms · 2 beds · 2 baths,Cindy,EIGHTH WARD,42.65549778,-73.81065666,Private room,200,1,0,,,1,261,0
+Rental unit in Albany · ★5.0 · 1 bedroom · 1 bed · 1 bath,Joshua,SIXTH WARD,42.65483901,-73.76743339,Entire home/apt,70,1,5,29/12/2023,1.95,4,365,5
+Rental unit in Albany · ★4.50 · 4 bedrooms · 3 beds · 2 baths,Earl,SECOND WARD,42.6453489,-73.7536465,Entire home/apt,181,1,6,01/01/2024,2.57,6,248,6
+Rental unit in Albany · ★4.50 · 4 bedrooms · 4 beds · 1 bath,Diana,TENTH WARD,42.6613655,-73.7848232,Entire home/apt,189,1,6,10/12/2023,2.86,19,270,6
+Home in Albany · ★4.63 · 1 bedroom · 1 bed · 3 baths,Thomas,THIRTEENTH WARD,42.67002776,-73.79770542,Private room,55,2,8,25/12/2023,3.69,10,232,8
+Home in Albany · ★5.0 · 1 bedroom · 1 bed · 3 shared baths,Thomas,THIRTEENTH WARD,42.66970961,-73.79754999,Private room,55,1,12,30/12/2023,5.71,10,245,12
+Home in Albany · ★5.0 · 1 bedroom · 1 bed · 3 shared baths,Thomas,FOURTEENTH WARD,42.66873117,-73.79930289,Private room,56,1,8,30/12/2023,3.87,10,149,8
+Rental unit in Albany · ★New · 1 bedroom · 1 bed · 1 bath,Manny,NINTH WARD,42.6572643,-73.7769051,Entire home/apt,72,7,0,,,1,109,0
+Home in Albany · ★5.0 · 5 bedrooms · 3 beds · 3.5 baths,Sergio,EIGHTH WARD,42.64549439,-73.83282736,Entire home/apt,390,1,7,30/12/2023,3.75,1,325,7
+Rental unit in Albany · ★New · 1 bedroom · 1 bed · 1 bath,Joyhefsiba,THIRD WARD,42.66055503,-73.76233869,Entire home/apt,88,1,0,,,2,270,0
+Villa in Albany · ★New · 1 bedroom · 1 bed · Half-bath,Yan,NINTH WARD,42.6558992,-73.7965699,Private room,24,1,0,,,1,89,0
+Rental unit in Albany · ★New · 1 bedroom · 1 bed · 1 bath,Rodney,SIXTH WARD,42.6553868,-73.76416369,Entire home/apt,100,1,2,08/11/2023,0.95,2,347,2
+Home in Albany · ★5.0 · 1 bedroom · 1 bed · 3 baths,Thomas,FOURTEENTH WARD,42.66792031,-73.79895761,Private room,58,1,8,29/12/2023,4.8,10,262,8
+Home in Albany · ★4.86 · 1 bedroom · 1 bed · 3 baths,Thomas,THIRTEENTH WARD,42.6699609,-73.79815654,Private room,56,1,7,22/12/2023,3.75,10,253,7
+Rental unit in Albany · ★5.0 · 1 bedroom · 1 bed · 1 bath,Erion,SIXTH WARD,42.6535,-73.77046,Entire home/apt,78,1,6,29/12/2023,3.67,8,359,6
+Rental unit in Albany · ★4.33 · 1 bedroom · 1 bed · 1 bath,Etem,SECOND WARD,42.6471388,-73.75466082,Entire home/apt,52,1,3,01/01/2024,3,1,63,3
+Rental unit in Albany · ★New · 1 bedroom · 1 bed · 1 bath,Linda,THIRD WARD,42.65859809,-73.76420636,Entire home/apt,120,1,1,26/11/2023,0.71,15,243,1
+Rental unit in Albany · ★New · 1 bedroom · 1 bed · 1 bath,Linda,THIRD WARD,42.659707,-73.76382105,Entire home/apt,119,1,1,03/12/2023,0.86,15,269,1
+Rental unit in Albany · ★New · 2 bedrooms · 3 beds · 1 bath,Aggie,SECOND WARD,42.64655139,-73.75972405,Entire home/apt,92,1,0,,,3,262,0
+Home in Albany · ★5.0 · 3 bedrooms · 3 beds · 1 bath,Brian,ELEVENTH WARD,42.66838,-73.77868,Entire home/apt,90,2,3,01/01/2024,2.57,1,77,3
+Rental unit in Albany · ★New · 1 bedroom · 1 bed · 1 bath,Joyhefsiba,THIRD WARD,42.66057049,-73.76370207,Private room,53,1,0,,,2,269,0
+Rental unit in Albany · ★New · 2 bedrooms · 2 beds · 1 bath,Joshua,SIXTH WARD,42.65487398,-73.76519869,Entire home/apt,88,3,2,26/12/2023,1.36,4,343,2
+Rental unit in Albany · ★New · 1 bedroom · 1 bed · 1 bath,Sophia,THIRD WARD,42.65863677,-73.75184061,Entire home/apt,76,30,0,,,1,87,0
+Rental unit in Albany · ★New · 2 bedrooms · 2 beds · 2 baths,Michael,THIRD WARD,42.6571053,-73.75132909,Entire home/apt,90,30,0,,,1,89,0
+Home in Albany · ★New · 3 bedrooms · 3 beds · 1 bath,Mary,TWELFTH WARD,42.67595537,-73.79260844,Entire home/apt,118,2,1,09/12/2023,1,2,253,1
+Rental unit in Albany · ★New · 1 bedroom · 2 beds · 1 bath,Steve,THIRD WARD,42.65477296,-73.74997242,Entire home/apt,89,2,0,,,1,90,0
+Rental unit in Albany · ★New · 1 bedroom · 1 bed · 1 bath,Philip,ELEVENTH WARD,42.67368029,-73.78413108,Entire home/apt,79,1,1,18/12/2023,1,1,89,1
+Rental unit in Albany · ★New · Studio · 2 beds · 1 bath,Rodney,SIXTH WARD,42.65446888,-73.76077862,Entire home/apt,67,1,0,,,2,217,0
+Home in Albany · ★New · 4 bedrooms · 6 beds · 1.5 baths,Archer,TENTH WARD,42.66106893,-73.7897306,Entire home/apt,88,3,2,30/12/2023,2,1,83,2
+Home in Albany · ★New · 3 bedrooms · 4 beds · 1.5 baths,Rebecca,FIFTEENTH WARD,42.6743202,-73.81555184,Entire home/apt,,2,0,,,1,22,0
+Rental unit in Albany · ★New · 1 bedroom · 1 bed · 1 shared bath,Ramiz,ELEVENTH WARD,42.66144282,-73.77351291,Private room,50,1,0,,,1,269,0
+Rental unit in Albany · ★New · 1 bedroom · 1 bed · 1 bath,G.G.,SEVENTH WARD,42.64478211,-73.77639568,Entire home/apt,73,15,0,,,1,92,0
+Home in Albany · ★New · 2 bedrooms · 2 beds · 1 bath,Dashima,FIRST WARD,42.64081288,-73.77462753,Entire home/apt,70,30,1,02/01/2024,1,1,93,1
+Rental unit in Albany · ★New · 1 bedroom · 1 bed · 1 bath,Bryce,SIXTH WARD,42.65098735,-73.76307768,Entire home/apt,118,2,0,,,1,270,0
+Home in Albany · ★New · 2 bedrooms · 1.5 baths,Emily,THIRTEENTH WARD,42.67140385,-73.79431184,Private room,85,5,0,,,2,148,0
+Home in Albany · ★New · 1 bedroom · 1.5 shared baths,Linda,TWELFTH WARD,42.71489626,-73.87648859,Private room,,2,0,,,1,268,0
